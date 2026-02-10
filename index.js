@@ -25,7 +25,7 @@ app.get('/', (req, res) => {
       </head>
       <body>
         <h1>Hello Sir, 
-         1.0.0 lived<br>Codingwale</h1>
+         2.0.0 lived<br>Codingwale</h1>
       </body>
     </html>
   `)
